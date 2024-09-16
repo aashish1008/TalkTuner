@@ -22,7 +22,7 @@ TalkTuner is a unique communication enhancement tool that offers users interacti
 - Google Generative AI
 - Langchain
 
-  ## Installation:
+## Installation:
   
 1. **Clone the repository:**
    ``` bash
