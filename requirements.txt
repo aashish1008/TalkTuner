@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_core
+langchain-cohere
+streamlit
+python-dotenv
+langchainhub
+langchain_groq
+google-generativeai
+langchain_google_genai
+streamlit_chat
