@@ -6,15 +6,18 @@ TalkTuner is a unique communication enhancement tool that offers users interacti
 
    **1. ChatBot:**
    Level-Based Conversations: Users can engage in conversations tailored to their communication level:
-   **Beginner:** Basic conversational skills.
-   **Intermediate:** Mid-level communication, including more complex sentence structures.
-   **Advanced:** High-level conversations with more intricate language usage and responses.
+   
+   - **Beginner:** Basic conversational skills.
+   - **Intermediate:** Mid-level communication, including more complex sentence structures.
+   - **Advanced:** High-level conversations with more intricate language usage and responses.
+
+   
    **2. Your Companion**
    **Role-Based Scenarios:** Users can choose different roles to practice specific communication challenges, including:
-       **Group Discussions:** Practice collaborative communication in a group setting.
-       **Role Play:** Simulate specific roles in various scenarios to improve role-based communication.
-       **Case Studies:** Engage in case-based discussions to enhance critical thinking and presentation skills.
-       **Stress Management:** Practice communication in high-pressure scenarios to improve resilience and effective response under stress.
+       - **Group Discussions:** Practice collaborative communication in a group setting.
+       - **Role Play:** Simulate specific roles in various scenarios to improve role-based communication.
+       - **Case Studies:** Engage in case-based discussions to enhance critical thinking and presentation skills.
+       - **Stress Management:** Practice communication in high-pressure scenarios to improve resilience and effective response under stress.
 
 ## Technologies Used
 - Streamlit
