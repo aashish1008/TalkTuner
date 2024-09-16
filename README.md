@@ -37,5 +37,14 @@ Langchain
    - Create a `.env` file in the root directory:
      ``` bash
      GOOGLE_API_KEY=your_google_genai_api_key
-
+     
+## Usage
+1. Run the application:
+   ``` bash
+   streamlit run chatbot.py
+   streamlit run your_companion.py
+2. Open your web browser and navigate to http://localhost:8501.
+3. Interact with TalkTuner by:
+   ChatBot: Select your communication level (beginner, intermediate, or advanced) and start a conversation to improve your communication skills.
+   Your Companion: Choose a role (group discussion, role play, case study, or stress management) and engage in structured conversations based on the selected scenario.
 
