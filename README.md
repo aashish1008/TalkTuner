@@ -14,10 +14,10 @@ TalkTuner is a unique communication enhancement tool that offers users interacti
    
    **2. Your Companion**
    **Role-Based Scenarios:** Users can choose different roles to practice specific communication challenges, including:
-       - **Group Discussions:** Practice collaborative communication in a group setting.
-       - **Role Play:** Simulate specific roles in various scenarios to improve role-based communication.
-       - **Case Studies:** Engage in case-based discussions to enhance critical thinking and presentation skills.
-       - **Stress Management:** Practice communication in high-pressure scenarios to improve resilience and effective response under stress.
+   - **Group Discussions:** Practice collaborative communication in a group setting.
+   - **Role Play:** Simulate specific roles in various scenarios to improve role-based communication.
+   - **Case Studies:** Engage in case-based discussions to enhance critical thinking and presentation skills.
+   - **Stress Management:** Practice communication in high-pressure scenarios to improve resilience and effective response under stress.
 
 ## Technologies Used
 - Streamlit
