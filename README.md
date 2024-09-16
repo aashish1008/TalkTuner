@@ -17,11 +17,14 @@ Level-Based Conversations: Users can engage in conversations tailored to their c
     **Stress Management:** Practice communication in high-pressure scenarios to improve resilience and effective response under stress.
 
 ## Technologies Used
-Streamlit
-Python 3.10 or more
-Google Generative AI
-Langchain
 
+- Streamlit
+- Python 3.10 or more
+- Google Generative AI
+- Langchain
+
+  ## Installation:
+  
 1. **Clone the repository:**
    ``` bash
    git clone https://github.com/aashish1008/TalkTuner.git
